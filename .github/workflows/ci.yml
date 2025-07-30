@@ -10,6 +10,7 @@ on:
     - 'k8s/**'
 
 jobs:
+
   build:
     runs-on: ubuntu-latest
 
