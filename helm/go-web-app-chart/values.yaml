@@ -8,7 +8,7 @@ image:
   repository: cmula0406/chandu-goapp
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "latest"
+  tag: "16626071868"
 
 ingress:
   enabled: false
